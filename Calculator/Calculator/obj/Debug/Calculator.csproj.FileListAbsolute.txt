@@ -1,0 +1,15 @@
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.GUICalc.resources
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Trigonometry.dll
+C:\Users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Trigonometry.pdb
+C:\Users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Algebra.dll
+C:\Users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\BasicMath.dll
+C:\Users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Algebra.pdb
+C:\Users\set28\onedrive\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\BasicMath.pdb
